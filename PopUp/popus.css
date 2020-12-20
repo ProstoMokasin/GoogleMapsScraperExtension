@@ -1,0 +1,13 @@
+body,html{
+	min-width: 200px;
+	min-height: 200px;
+	max-width: 800px;
+	max-height: 600px;
+}
+
+button{
+	border-color: black;
+	border-radius: 5%;
+	text-align: center;
+	display: flex;
+}
